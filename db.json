@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "name": "macBook",
+      "price": "1200$",
+      "seller": "iStore",
+      "telSeller": "70865165489",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MC1504WIKI.JPG",
+      "id": 2
+    },
+    {
+      "name": "macBook",
+      "price": "1200$",
+      "seller": "iStore",
+      "telSeller": "70865165489",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MC1504WIKI.JPG",
+      "id": 2
+    },
+    {
+      "name": "macBook",
+      "price": "1200$",
+      "seller": "iStore",
+      "telSeller": "70865165489",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MC1504WIKI.JPG",
+      "id": 2
+    },
+    {
+      "name": "macBook",
+      "price": "1200$",
+      "seller": "iStore",
+      "telSeller": "70865165489",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MC1504WIKI.JPG",
+      "id": 2
+    },
+    {
+      "name": "macBook",
+      "price": "1200$",
+      "seller": "iStore",
+      "telSeller": "70865165489",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MC1504WIKI.JPG",
+      "id": 2
+    },
+    {
+      "name": "macBook",
+      "price": "1200$",
+      "seller": "iStore",
+      "telSeller": "70865165489",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MC1504WIKI.JPG",
+      "id": 2
+    },
+    {
+      "name": "macBook",
+      "price": "1200$",
+      "seller": "iStore",
+      "telSeller": "70865165489",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MC1504WIKI.JPG",
+      "id": 2
+    }
+  ]
+}

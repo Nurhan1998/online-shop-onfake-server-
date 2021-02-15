@@ -1,0 +1,143 @@
+* {
+  line-height: 20px;
+  justify-content: center;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.384px;
+  text-align: center;
+}
+
+.nav_link {
+  color: black;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.58651px;
+}
+
+.btn {
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.58651px;
+}
+
+.header__title {
+  margin-top: 10px;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.header__description-title {
+  margin-top: 55px;
+  font-weight: 600;
+  margin-bottom: 55px;
+}
+
+.header__description-title-2 {
+  margin: 20px 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.second-section {
+  background: rgba(236, 240, 241, 0.48);
+}
+.row {
+  justify-content: center;
+  align-items: center;
+}
+.rows {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+  flex-wrap: wrap;
+}
+.section__item {
+  font-weight: bold;
+}
+
+.col-4 {
+  justify-content: space-between;
+}
+.footer {
+  width: 100%;
+}
+.uslugi {
+  flex-direction: column;
+  justify-self: start;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+#header-bg {
+  width: 100%;
+}
+
+.main-modal {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+  position: fixed;
+}
+
+.inner-modal {
+  width: 500px;
+  height: 300px;
+  background-color: white;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+  padding: 10px;
+}
+.add-item_main_modal {
+  display: none;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+  position: fixed;
+}
+.add-item_inner_modal {
+  width: 500px;
+  height: 400px;
+  background-color: white;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.add-item_inner_modal > input {
+  background-color: white;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+}
+@media screen and (min-width: 720px) {
+  .search-inp {
+    width: 500px;
+  }
+}
